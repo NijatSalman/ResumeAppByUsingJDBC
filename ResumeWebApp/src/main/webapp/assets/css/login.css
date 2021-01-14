@@ -1,0 +1,14 @@
+.login_background{
+    background-image: url("https://images.pexels.com/photos/3591570/pexels-photo-3591570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+}
+
+.login_fix_{
+    background: #fffdfd40;
+    border: white;
+    padding-top: 172px;
+    font-style: italic;
+    color: aliceblue;
+    width: 500px;
+    height: 500px;
+}
